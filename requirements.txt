@@ -799,5 +799,6 @@ xxhash==3.5.0 ; python_version >= "3.13" \
     --hash=sha256:fd1b2281d01723f076df3c8188f43f2472248a6b63118b036e641243656b1b0f \
     --hash=sha256:fe1a92cfbaa0a1253e339ccec42dbe6db262615e52df591b68726ab10338003f
 
-fastapi~=0.116.1
+fastapi~=0.121.2
 SQLAlchemy~=2.0.42
+pydantic~=2.12.4
